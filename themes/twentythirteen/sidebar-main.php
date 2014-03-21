@@ -10,6 +10,8 @@
  */
 
 if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
+	<div id="portones-demo" class="extra-portones-demo" role="complementary">
+	</div><!-- #extra-sidebar -->
 	<div id="extra-sidebar" class="extra-sidebar-container" role="complementary">
 		<div class="widget-area">
             <div class="fast-logo-white">

@@ -2533,6 +2533,11 @@ footer.entry-meta {
 	padding: 20px 0;
 }
 
+.site-footer #portones-demo {
+    height: 180px;
+    background-image: url(images/portones-demo.png);
+}
+
 .site-footer #extra-sidebar {
     height: 41px;
 	background: #e4601f;
