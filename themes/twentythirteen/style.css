@@ -858,7 +858,7 @@ div.nav-menu > ul {
 }
 
 .nav-menu li a {
-	color: #141412;
+	color: #ff671c;
 	display: block;
 	font-size: 15px;
 	line-height: 1;
@@ -868,7 +868,7 @@ div.nav-menu > ul {
 
 .nav-menu li:hover > a,
 .nav-menu li a:hover {
-	background-color: #220e10;
+	background-color: #e4601f;
 	color: #fff;
 }
 
@@ -912,8 +912,12 @@ ul.nav-menu li:hover > ul,
 .nav-menu .current_page_ancestor > a,
 .nav-menu .current-menu-item > a,
 .nav-menu .current-menu-ancestor > a {
-	color: #bc360a;
+	background-color: #e4601f;
+	color: #fff;
 	font-style: italic;
+    -moz-box-shadow:    inset 2px 1px 10px #000000;
+    -webkit-box-shadow: inset 2px 1px 10px #000000;
+    box-shadow:         inset 2px 1px 10px #000000;
 }
 
 .menu-toggle {
@@ -922,7 +926,7 @@ ul.nav-menu li:hover > ul,
 
 /* Navbar */
 .navbar {
-	background-color: #f7f5e7;
+	background-color: #333;
 	margin: 0 auto;
 	max-width: 1600px;
 	width: 100%;
@@ -2516,7 +2520,7 @@ footer.entry-meta {
 }
 
 .site-footer .sidebar-container {
-	background-color: #220e10;
+	background-color: #333;
 	padding: 20px 0;
 }
 
@@ -2855,7 +2859,7 @@ footer.entry-meta {
 
 	.toggled-on .nav-menu li a:hover,
 	.toggled-on .nav-menu ul a:hover {
-		background-color: #db572f;
+		background-color: #e4601f;
 		color: #fff;
 	}
 
