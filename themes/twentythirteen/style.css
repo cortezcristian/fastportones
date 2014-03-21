@@ -1017,6 +1017,12 @@ ul.nav-menu li:hover > ul,
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.entry-title span.fast-entry-title {
+   text-transform: uppercase;
+   color: #C63;
+   letter-spacing: -3px; 
+}
+
 .entry-title a {
 	color: #141412;
 }
