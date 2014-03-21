@@ -2524,6 +2524,28 @@ footer.entry-meta {
 	padding: 20px 0;
 }
 
+.site-footer #extra-sidebar {
+    height: 41px;
+	background: #e4601f;
+}
+
+.site-footer #extra-sidebar .fast-logo-white {
+    display: inline-block;
+    float: left;
+	width: 152px;
+	height: 41px;
+    background-image: url(images/fast-white.png);
+}
+
+.site-footer #extra-sidebar .fast-phone-white {
+    display: inline-block;
+    float: right;
+    margin: 4px 100px 0 0;
+	width: 211px;
+	height: 33px;
+    background-image: url(images/fast-phone.png);
+}
+
 .site-footer .widget-area {
 	margin: 0 auto;
 	max-width: 1040px;

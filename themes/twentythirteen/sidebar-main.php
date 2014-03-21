@@ -11,6 +11,12 @@
 
 if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 	<div id="extra-sidebar" class="extra-sidebar-container" role="complementary">
+		<div class="widget-area">
+            <div class="fast-logo-white">
+            </div>
+            <div class="fast-phone-white">
+            </div>
+	    </div>
 	</div><!-- #extra-sidebar -->
 	<div id="secondary" class="sidebar-container" role="complementary">
 		<div class="widget-area">
