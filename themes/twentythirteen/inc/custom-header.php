@@ -62,7 +62,7 @@ function twentythirteen_custom_header_setup() {
 		),
 		'fastpor' => array(
 			'url'           => '%s/images/headers/fastportones.png',
-			'thumbnail_url' => '%s/images/headers/fastportnes-thumbnail.png',
+			'thumbnail_url' => '%s/images/headers/fastportones-thumbnail.png',
 			'description'   => _x( 'FastPortones', 'header image description', 'twentythirteen' )
 		),
 	) );
