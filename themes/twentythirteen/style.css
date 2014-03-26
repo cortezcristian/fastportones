@@ -815,8 +815,12 @@ img.wp-smiley,
 	width: 100%;
 }
 /*logo fast*/
-.logo {
-	background: url(http://fastportones.com.ar/wp-content/themes/twentythirteen/images/fast-logo.png) no-repeat;
+#logo  {
+	position: relative;
+}
+#logo > img {
+	position: absolute;
+	bottom: 0;
 }
 /**
 
