@@ -93,7 +93,15 @@ hr {
 	margin: 0 0 24px;
 }
 
+<<<<<<< HEAD
 
+=======
+/*logo fast*/
+#logo {
+	background: url(http://fastportones.com.ar/wp-content/themes/twentythirteen/images/fast-logo.png) no-repeat;
+}
+/**
+>>>>>>> 2f67c0e9f636d2a5c6d51f3cee1ea8351870eb3c
  * 3.0 Text Elements
  * ----------------------------------------------------------------------------
  */
