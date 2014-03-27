@@ -926,7 +926,8 @@ ul.nav-menu li:hover > ul,
 .nav-menu .current-menu-ancestor > a {
 	background-color: #e4601f;
 	color: #fff;
-	font-style: italic;
+	width: 221px;
+	/*font-style: italic;*/
     -moz-box-shadow:    inset 2px 1px 10px #000000;
     -webkit-box-shadow: inset 2px 1px 10px #000000;
     box-shadow:         inset 2px 1px 10px #000000;
