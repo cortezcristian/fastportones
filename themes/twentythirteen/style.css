@@ -3192,3 +3192,20 @@ footer.entry-meta {
 		color: #333;
 	}
 }
+
+/*page portones*/
+.portoneslist {
+	list-style-type: none;
+}
+.imgporton {
+	float: left;
+	width: 190px;
+	height: 142px;
+}
+.categporton {
+	float: right;
+	width: 400px;
+}
+.categporton > h3 {
+	margin: 0 0 5px;
+}
