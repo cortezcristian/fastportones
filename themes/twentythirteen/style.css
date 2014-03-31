@@ -3214,12 +3214,24 @@ footer.entry-meta {
 	float: right;
 	width: 400px;
 }
+.categporton > p {
+	margin-bottom: 10px;
+}
 .categporton > h3 {
 	margin: 0 0 5px;
 }
+.categporton > p > a {
+	background-color: #999;
+	padding: 5px;
+	color: white;
+}
+
 
 /*footer*/
 .textwidget > p {
 	margin-bottom: 5px;
 	width: 250px;
+}
+.textwidget > p > img {
+	margin-right: 5px;
 }
