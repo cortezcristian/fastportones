@@ -3225,6 +3225,14 @@ footer.entry-meta {
 	padding: 5px;
 	color: white;
 }
+/*page automatización*/
+.prodx2 {
+	width: 700px;
+}
+.prod {
+	width: 300px;
+	float: left;
+}
 
 
 /*footer*/
