@@ -846,7 +846,7 @@ img.wp-smiley,
  * 4.2 Navigation
  * ----------------------------------------------------------------------------
  */
-
+/*menu principal*/
 .main-navigation {
 	clear: both;
 	margin: 0 auto;
@@ -911,7 +911,7 @@ ul.nav-menu ul a,
 ul.nav-menu ul a:hover,
 .nav-menu ul ul a:hover {
 	background-color: #666;
-	width: 221px;
+	width: 215px;
 	border-bottom: 1px solid #fff;
 }
 
@@ -934,6 +934,9 @@ ul.nav-menu li:hover > ul,
 
 .menu-toggle {
 	display: none;
+}
+.sub-menu > li {
+	width: 215px;
 }
 
 /* Navbar */
