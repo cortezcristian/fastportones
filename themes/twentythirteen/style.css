@@ -3217,3 +3217,9 @@ footer.entry-meta {
 .categporton > h3 {
 	margin: 0 0 5px;
 }
+
+/*footer*/
+.textwidget > p {
+	margin-bottom: 5px;
+	width: 250px;
+}
