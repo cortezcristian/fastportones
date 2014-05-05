@@ -1,0 +1,13 @@
+Lorem ipsum dolor sit amet, vis id expetenda hendrerit scripserit, an vis quem munere cotidieque. Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. 
+<div class="prodx2">
+    <div class="prod">
+        <img src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/auto_prod.jpg"/>
+        <h3>Producto01</h3>
+        <p>Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu.</p>
+    </div>
+    <div class="prod">
+        <img src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/auto_prod.jpg"/>
+        <h3>Producto01</h3>
+        <p>Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu.</p>
+    </div>
+</div>

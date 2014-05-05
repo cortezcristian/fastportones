@@ -1,0 +1,30 @@
+Lorem ipsum dolor sit amet, vis id expetenda hendrerit scripserit, an vis quem munere cotidieque. Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
+<ul class="portoneslist">
+    <li>
+<div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton01.jpg" /></div>
+<div class="categporton">
+<h3>Portones Batientes</h3>
+Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
+
+<a href="#">+FOTOS</a>
+
+</div></li>
+    <li>
+<div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton02.jpg" /></div>
+<div class="categporton">
+<h3>Portones Corredizos</h3>
+Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
+
+<a href="#">+FOTOS</a>
+
+</div></li>
+    <li>
+<div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton03.jpg" /></div>
+<div class="categporton">
+<h3>Portones Levadizos</h3>
+Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
+
+<a href="#">+FOTOS</a>
+
+</div></li>
+</ul>
