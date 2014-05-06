@@ -1,30 +1,26 @@
-Lorem ipsum dolor sit amet, vis id expetenda hendrerit scripserit, an vis quem munere cotidieque. Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
+Fabricamos todo tipo de portones estandar y a medida listos para automatizar con materiales de calidad y distintos tipos de revestimento acorde a las preferencias de nuestros clientes. Damos soluciones de  seguridad respetando  la estética.
+
+Realizamos también transformaciones de portones ya existentes de pivotantes a corredizos o levadizos.
 <ul class="portoneslist">
-    <li>
+	<li>
 <div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton01.jpg" /></div>
 <div class="categporton">
 <h3>Portones Batientes</h3>
-Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
-
-<a href="#">+FOTOS</a>
-
-</div></li>
-    <li>
+Portones de una o dos hojas  tipo reja o ciegos fabricados con materiales resistentes y durables.
+</div>
+        </li>
+	<li>
 <div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton02.jpg" /></div>
 <div class="categporton">
 <h3>Portones Corredizos</h3>
-Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
-
-<a href="#">+FOTOS</a>
-
-</div></li>
-    <li>
+Amplia gama de modelos y revestimientos acorde a cada una de las necesidades.
+</div>
+        </li>
+	<li>
 <div class="imgporton"><img alt="porton01" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/porton03.jpg" /></div>
 <div class="categporton">
 <h3>Portones Levadizos</h3>
-Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu. Cu eum abhorreant cotidieque, an nam maluisset aliquando, ut maiorum pertinacia disputando vel. Quod viris adversarium ius ad.
-
-<a href="#">+FOTOS</a>
-
-</div></li>
+Comercializamos una excelente línea de portones levadizos estandar a los mejores precios del mercado y también realizamos trabajos a medida.
+</div>
+       </li>
 </ul>
