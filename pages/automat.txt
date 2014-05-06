@@ -1,4 +1,4 @@
-Contamos con gran variedad de equipos de primeras marcas para la automatización de todo tipo de portones
+﻿Contamos con gran variedad de equipos de primeras marcas para la automatización de todo tipo de portones
 <div>
 <div>
 <h3>BATIENTES (pivotantes)</h3>
@@ -8,16 +8,10 @@ Para portones de una o dos hojas con sistema a tornillo sin fin y tipo embolo. D
 <div><a style="line-height: 1.5;" href="http://fastportones.com.ar/wp-content/uploads/2014/03/pivotante-01.jpg"><img class="alignnone size-medium wp-image-80" alt="pivotante-01" src="http://fastportones.com.ar/wp-content/uploads/2014/03/pivotante-01-300x145.jpg" width="300" height="145" /></a><a style="line-height: 1.5; color: #ea9629; text-decoration: underline; outline: #000000;" href="http://fastportones.com.ar/wp-content/uploads/2014/03/pivotante-09.jpg"><img class="alignnone  wp-image-81" alt="pivotante-09" src="http://fastportones.com.ar/wp-content/uploads/2014/03/pivotante-09-300x200.jpg" width="300" height="145" /></a></div>
 <div></div>
 <div>
-<h3></h3>
 <h3 style="text-align: left;">CORREDIZOS</h3>
 <p style="text-align: left;">Soluciones para portones corredizos de cualquier longitud y  peso. Equipos rápidos, de uso frecuente  y de altas prestaciones</p>
 <a href="http://fastportones.com.ar/wp-content/uploads/2014/03/corredizo-06.jpg"><img class="alignnone  wp-image-86" alt="corredizo-06" src="http://fastportones.com.ar/wp-content/uploads/2014/03/corredizo-06-290x300.jpg" width="290" height="250" /></a><a href="http://fastportones.com.ar/wp-content/uploads/2014/03/corredizo-08.jpg"><img class="alignnone size-medium wp-image-85" alt="corredizo-08" src="http://fastportones.com.ar/wp-content/uploads/2014/03/corredizo-08-300x199.jpg" width="300" height="199" /></a>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 <h3>LEVADIZOS</h3>
 Mecanismos para automatización tradicionales a tornillo sin-fin o a barra de torsión . Posibilidad de distintas potencias y velocidades
 
