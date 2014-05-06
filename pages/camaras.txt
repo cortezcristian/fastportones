@@ -1,13 +1,7 @@
-Lorem ipsum dolor sit amet, vis id expetenda hendrerit scripserit, an vis quem munere cotidieque. Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu.
-<div class="prodx2">
-<div class="prod"><img alt="" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/auto_prod.jpg" />
-<h3>Producto01</h3>
-Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu.
-
-</div>
-<div class="prod"><img alt="" src="http://fastportones.com.ar/wp-content/themes/twentythirteen/images/auto_prod.jpg" />
-<h3>Producto01</h3>
-Vel ut commodo percipit. Sed alii reque facilisi te. At sit invidunt oporteat voluptatum, qui verear tritani legendos eu.
-
-</div>
-</div>
+<p>Cámaras de seguridad para comercios y domicilios particulares con posibilidad de monitoreo a través de internet desde cualquier ordenador o smartphone.</p>
+<ul>
+	<li>Cámaras infrarojas para visión nocturna de primerísimas marcas ( SONY, SHARP)</li>
+	<li>Dispositivos de almacenado de datos mediante disco rígido.</li>
+	<li>Todo tipo de accesorios para CCTV (soportes, amplificadores de vidéo, fuentes, etc.).</li>
+</ul>
+<a href="http://fastportones.com.ar/wp-content/uploads/2014/04/camara.jpg"><img class="alignnone size-medium wp-image-71" alt="camara" src="http://fastportones.com.ar/wp-content/uploads/2014/04/camara-300x300.jpg" width="300" height="300" /></a>
